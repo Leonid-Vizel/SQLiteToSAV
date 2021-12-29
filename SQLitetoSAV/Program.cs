@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SQLitetoSAV
+namespace SQLiteToSAV
 {
     internal class Program
     {
